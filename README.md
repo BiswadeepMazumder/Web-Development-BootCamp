@@ -8,3 +8,8 @@ Learned:
   c. importance of DocType
 Outcome:
 1-Started out building a portfolio with the basic HTML learning
+
+09-06-2020
+Learned:
+
+Outcome:
