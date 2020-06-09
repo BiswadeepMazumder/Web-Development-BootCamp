@@ -11,5 +11,6 @@ Outcome:
 
 09-06-2020
 Learned:
-
+  1. photobucket.com - gices an url for evey images you upload it there
+  2. crop-circle.com - to crop an image in circle from the internet
 Outcome:
