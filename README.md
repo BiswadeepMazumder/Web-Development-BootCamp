@@ -19,7 +19,7 @@ Learning:
 Outcome:
   1. Added new contacts page to the portfolio website, profile picture and hobbies section
 
-10-06-2020
+# 10-06-2020
 Learning:
   1. Tables
   2. Emojis in HTML
@@ -29,7 +29,7 @@ Outcome:
   1. Mofified portfolio website to add star ratings on skills, alligned in a table
   2. Added a html form to mail queries.
 
-# # 12-06-2020
+## 12-06-2020
 Learning:
   1. Inline CSS
   2. Colorhunt.io = pallete of colours for HTML and CSS developments 
