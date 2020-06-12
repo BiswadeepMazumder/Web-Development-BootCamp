@@ -1,0 +1,29 @@
+body {
+    background-color: #f0f0f0;
+}
+hr {
+    width: 2%;
+    border-style: none;
+    border-top: 3px dashed #888888;
+    height: 2px;
+}
+h1{
+    color: #900c3f;
+}
+h3{
+    color: #900c3f;
+}
+#profilePic{
+    border-radius: 80%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+
+}
+
+#profilePic:hover{
+    border-color: #ccafaf;
+}
+
+
+

@@ -29,3 +29,14 @@ Outcome:
   1. Mofified portfolio website to add star ratings on skills, alligned in a table
   2. Added a html form to mail queries.
 
+12-06-2020
+Learning:
+  1. Inline CSS
+  2. Colorhunt.io = pallete of colours for HTML and CSS developments 
+  3. Pesticide chrome extension for layering out the css of any webpage loaded into the chrome browser.
+  4. inline,internal and external css
+  5. using google developer tools to debug at page level
+  6. class and id selectors
+  7. hover and changing css properties along with hover.
+Outcome:
+  1. Apllying the same in the portfolio website.
