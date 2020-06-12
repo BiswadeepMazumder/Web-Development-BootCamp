@@ -38,5 +38,6 @@ Learning:
   5. using google developer tools to debug at page level
   6. class and id selectors
   7. hover and changing css properties along with hover.
+  8. fav-icon.cc: to create icons of your own
 Outcome:
   1. Apllying the same in the portfolio website.
