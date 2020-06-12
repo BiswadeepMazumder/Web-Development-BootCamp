@@ -1,5 +1,5 @@
 # Web-Development-BootCamp
-08-06-2020
+# 08-06-2020
 Learning:
   1-Basics of Internet(how internet works,How websites work)
   2-Basics of HTML
@@ -9,7 +9,7 @@ Learning:
 Outcome:
   1-Started out building a portfolio with the basic HTML learning
 
-09-06-2020
+# 09-06-2020
 Learning:
   1. photobucket.com - gices an url for evey images you upload it there
   2. crop-circle.com - to crop an image in circle from the internet
@@ -29,7 +29,7 @@ Outcome:
   1. Mofified portfolio website to add star ratings on skills, alligned in a table
   2. Added a html form to mail queries.
 
-12-06-2020
+# # 12-06-2020
 Learning:
   1. Inline CSS
   2. Colorhunt.io = pallete of colours for HTML and CSS developments 
